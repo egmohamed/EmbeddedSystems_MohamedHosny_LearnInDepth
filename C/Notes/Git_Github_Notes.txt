@@ -38,6 +38,6 @@ you noramlly make a new branch for two common reasons; you want to make your mas
 in another branches then you merge it with the main code in the master branch to keep your master code clean and safe
 
 the other reason to deploy a new release, so you put it in new branch and keep adding features in the master branch 
-so if you want in the future to switch back to specific release and modify it you can do that easily 
+so if you want in the future to switch back to specific release and modify it you can do that easily.
 
 
