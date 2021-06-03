@@ -1,0 +1,1 @@
+to work on embedded c (c89 is the most used) then use the command: gcc -ansi -std=c89 
