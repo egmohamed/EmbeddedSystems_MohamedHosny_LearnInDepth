@@ -277,8 +277,8 @@ void StrReverse(void)
     while(Str[i])
         i++;
 
-    /* In this example we just show the characters in reversed order. This
-     * not an actual reversing of the array. However is you want so, you can
+    /* In this example we just show the characters in reversed order. This is
+     * not an actual reversing of the array. However if you want so, you can
      * swap the first array half with the second array half to reverse it
      */
     printf("Reverse string is: ");
