@@ -302,3 +302,267 @@ Info: Internal Builder is used for build
 gcc -ansi -std=c89 -O0 -g3 -Wall -c -fmessage-length=0 -o main.o "..\\main.c" 
 gcc -ansi -std=c89 -o Assignment1_C.exe main.o 
 Info: Nothing to build for Assignment1_C
+19:14:49 **** Incremental Build of configuration Debug for project Assignment1_C ****
+Info: Internal Builder is used for build
+gcc -ansi -std=c89 -O0 -g3 -Wall -c -fmessage-length=0 -o main.o "..\\main.c" 
+gcc -ansi -std=c89 -o Assignment1_C.exe main.o 
+Info: Nothing to build for Assignment1_C
+Info: Nothing to build for Assignment1_C
+22:01:01 **** Incremental Build of configuration Debug for project Assignment1_C ****
+Info: Internal Builder is used for build
+gcc -ansi -std=c89 -O0 -g3 -Wall -c -fmessage-length=0 -o main.o "..\\main.c" 
+gcc -ansi -std=c89 -o Assignment1_C.exe main.o 
+Info: Nothing to build for Assignment1_C
+Info: Nothing to build for Assignment1_C
+Info: Nothing to build for Assignment1_C
+Info: Nothing to build for Assignment1_C
+22:05:13 **** Incremental Build of configuration Debug for project Assignment1_C ****
+Info: Internal Builder is used for build
+gcc -ansi -std=c89 -O0 -g3 -Wall -c -fmessage-length=0 -o main.o "..\\main.c" 
+gcc -ansi -std=c89 -o Assignment1_C.exe main.o 
+22:07:02 **** Incremental Build of configuration Debug for project Assignment1_C ****
+Info: Internal Builder is used for build
+gcc -ansi -std=c89 -O0 -g3 -Wall -c -fmessage-length=0 -o main.o "..\\main.c" 
+gcc -ansi -std=c89 -o Assignment1_C.exe main.o 
+Info: Nothing to build for Assignment1_C
+22:07:42 **** Incremental Build of configuration Debug for project Assignment1_C ****
+Info: Internal Builder is used for build
+gcc -ansi -std=c89 -O0 -g3 -Wall -c -fmessage-length=0 -o main.o "..\\main.c" 
+gcc -ansi -std=c89 -o Assignment1_C.exe main.o 
+c:/mingw/mingw/bin/../lib/gcc/mingw32/5.3.0/../../../../mingw32/bin/ld.exe: cannot open output file Assignment1_C.exe: Permission denied
+collect2.exe: error: ld returned 1 exit status
+22:07:45 **** Incremental Build of configuration Debug for project Assignment1_C ****
+Info: Internal Builder is used for build
+gcc -ansi -std=c89 -o Assignment1_C.exe main.o 
+c:/mingw/mingw/bin/../lib/gcc/mingw32/5.3.0/../../../../mingw32/bin/ld.exe: cannot open output file Assignment1_C.exe: Permission denied
+collect2.exe: error: ld returned 1 exit status
+22:08:08 **** Incremental Build of configuration Debug for project Assignment1_C ****
+Info: Internal Builder is used for build
+gcc -ansi -std=c89 -o Assignment1_C.exe main.o 
+c:/mingw/mingw/bin/../lib/gcc/mingw32/5.3.0/../../../../mingw32/bin/ld.exe: cannot open output file Assignment1_C.exe: Permission denied
+collect2.exe: error: ld returned 1 exit status
+22:11:57 **** Incremental Build of configuration Debug for project Assignment1_C ****
+Info: Internal Builder is used for build
+gcc -ansi -std=c89 -O0 -g3 -Wall -c -fmessage-length=0 -o main.o "..\\main.c" 
+gcc -ansi -std=c89 -o Assignment1_C.exe main.o 
+Info: Nothing to build for Assignment1_C
+Info: Nothing to build for Assignment1_C
+22:13:49 **** Incremental Build of configuration Debug for project Assignment1_C ****
+Info: Internal Builder is used for build
+gcc -ansi -std=c89 -O0 -g3 -Wall -c -fmessage-length=0 -o main.o "..\\main.c" 
+gcc -ansi -std=c89 -o Assignment1_C.exe main.o 
+Info: Nothing to build for Assignment1_C
+22:14:41 **** Incremental Build of configuration Debug for project Assignment1_C ****
+Info: Internal Builder is used for build
+gcc -ansi -std=c89 -O0 -g3 -Wall -c -fmessage-length=0 -o main.o "..\\main.c" 
+gcc -ansi -std=c89 -o Assignment1_C.exe main.o 
+Info: Nothing to build for Assignment1_C
+22:15:56 **** Incremental Build of configuration Debug for project Assignment1_C ****
+Info: Internal Builder is used for build
+gcc -ansi -std=c89 -O0 -g3 -Wall -c -fmessage-length=0 -o main.o "..\\main.c" 
+gcc -ansi -std=c89 -o Assignment1_C.exe main.o 
+Info: Nothing to build for Assignment1_C
+Info: Nothing to build for Assignment1_C
+22:17:06 **** Incremental Build of configuration Debug for project Assignment1_C ****
+Info: Internal Builder is used for build
+gcc -ansi -std=c89 -O0 -g3 -Wall -c -fmessage-length=0 -o main.o "..\\main.c" 
+gcc -ansi -std=c89 -o Assignment1_C.exe main.o 
+Info: Nothing to build for Assignment1_C
+22:17:23 **** Incremental Build of configuration Debug for project Assignment1_C ****
+Info: Internal Builder is used for build
+gcc -ansi -std=c89 -O0 -g3 -Wall -c -fmessage-length=0 -o main.o "..\\main.c" 
+gcc -ansi -std=c89 -o Assignment1_C.exe main.o 
+Info: Nothing to build for Assignment1_C
+22:18:11 **** Incremental Build of configuration Debug for project Assignment1_C ****
+Info: Internal Builder is used for build
+gcc -ansi -std=c89 -O0 -g3 -Wall -c -fmessage-length=0 -o main.o "..\\main.c" 
+gcc -ansi -std=c89 -o Assignment1_C.exe main.o 
+Info: Nothing to build for Assignment1_C
+22:19:14 **** Incremental Build of configuration Debug for project Assignment1_C ****
+Info: Internal Builder is used for build
+gcc -ansi -std=c89 -O0 -g3 -Wall -c -fmessage-length=0 -o main.o "..\\main.c" 
+gcc -ansi -std=c89 -o Assignment1_C.exe main.o 
+Info: Nothing to build for Assignment1_C
+22:24:45 **** Incremental Build of configuration Debug for project Assignment1_C ****
+Info: Internal Builder is used for build
+gcc -ansi -std=c89 -O0 -g3 -Wall -c -fmessage-length=0 -o main.o "..\\main.c" 
+gcc -ansi -std=c89 -o Assignment1_C.exe main.o 
+Info: Nothing to build for Assignment1_C
+22:25:32 **** Incremental Build of configuration Debug for project Assignment1_C ****
+Info: Internal Builder is used for build
+gcc -ansi -std=c89 -O0 -g3 -Wall -c -fmessage-length=0 -o main.o "..\\main.c" 
+gcc -ansi -std=c89 -o Assignment1_C.exe main.o 
+Info: Nothing to build for Assignment1_C
+22:26:40 **** Incremental Build of configuration Debug for project Assignment1_C ****
+Info: Internal Builder is used for build
+gcc -ansi -std=c89 -O0 -g3 -Wall -c -fmessage-length=0 -o main.o "..\\main.c" 
+gcc -ansi -std=c89 -o Assignment1_C.exe main.o 
+Info: Nothing to build for Assignment1_C
+22:27:18 **** Incremental Build of configuration Debug for project Assignment1_C ****
+Info: Internal Builder is used for build
+gcc -ansi -std=c89 -O0 -g3 -Wall -c -fmessage-length=0 -o main.o "..\\main.c" 
+..\main.c: In function 'CheckEvenOdd':
+..\main.c:173:2: error: C++ style comments are not allowed in ISO C90
+  //fflush(stdin);
+  ^
+..\main.c:173:2: error: (this will be reported only once per input file)
+22:27:52 **** Incremental Build of configuration Debug for project Assignment1_C ****
+Info: Internal Builder is used for build
+gcc -ansi -std=c89 -O0 -g3 -Wall -c -fmessage-length=0 -o main.o "..\\main.c" 
+gcc -ansi -std=c89 -o Assignment1_C.exe main.o 
+c:/mingw/mingw/bin/../lib/gcc/mingw32/5.3.0/../../../../mingw32/bin/ld.exe: cannot open output file Assignment1_C.exe: Permission denied
+collect2.exe: error: ld returned 1 exit status
+22:35:16 **** Clean-only build of configuration Debug for project Assignment1_C ****
+rm -rf main.o Assignment1_C.exe main.d 
+rm: cannot remove `Assignment1_C.exe': Permission denied
+22:36:41 **** Rebuild of configuration Debug for project Assignment1_C ****
+Info: Internal Builder is used for build
+gcc -ansi -std=c89 -O0 -g3 -Wall -c -fmessage-length=0 -o main.o "..\\main.c" 
+gcc -ansi -std=c89 -o Assignment1_C.exe main.o 
+c:/mingw/mingw/bin/../lib/gcc/mingw32/5.3.0/../../../../mingw32/bin/ld.exe: cannot open output file Assignment1_C.exe: Permission denied
+collect2.exe: error: ld returned 1 exit status
+22:37:52 **** Incremental Build of configuration Debug for project Assignment1_C ****
+Info: Internal Builder is used for build
+gcc -ansi -std=c89 -o Assignment1_C.exe main.o 
+c:/mingw/mingw/bin/../lib/gcc/mingw32/5.3.0/../../../../mingw32/bin/ld.exe: cannot open output file Assignment1_C.exe: Permission denied
+collect2.exe: error: ld returned 1 exit status
+22:38:57 **** Incremental Build of configuration Debug for project Assignment1_C ****
+Info: Internal Builder is used for build
+gcc -ansi -std=c89 -o Assignment1_C.exe main.o 
+c:/mingw/mingw/bin/../lib/gcc/mingw32/5.3.0/../../../../mingw32/bin/ld.exe: cannot open output file Assignment1_C.exe: Permission denied
+collect2.exe: error: ld returned 1 exit status
+22:39:41 **** Incremental Build of configuration Debug for project Assignment1_C ****
+Info: Internal Builder is used for build
+gcc -ansi -std=c89 -o Assignment1_C.exe main.o 
+Info: Nothing to build for Assignment1_C
+22:41:39 **** Incremental Build of configuration Debug for project Assignment1_C ****
+Info: Internal Builder is used for build
+gcc -ansi -std=c89 -O0 -g3 -Wall -c -fmessage-length=0 -o main.o "..\\main.c" 
+gcc -ansi -std=c89 -o Assignment1_C.exe main.o 
+Info: Nothing to build for Assignment1_C
+22:42:16 **** Incremental Build of configuration Debug for project Assignment1_C ****
+Info: Internal Builder is used for build
+gcc -ansi -std=c89 -O0 -g3 -Wall -c -fmessage-length=0 -o main.o "..\\main.c" 
+gcc -ansi -std=c89 -o Assignment1_C.exe main.o 
+Info: Nothing to build for Assignment1_C
+Info: Nothing to build for Assignment1_C
+Info: Nothing to build for Assignment1_C
+Info: Nothing to build for Assignment1_C
+Info: Nothing to build for Assignment1_C
+Info: Nothing to build for Assignment1_C
+Info: Nothing to build for Assignment1_C
+Info: Nothing to build for Assignment1_C
+22:51:45 **** Incremental Build of configuration Debug for project Assignment1_C ****
+Info: Internal Builder is used for build
+gcc -ansi -std=c89 -O0 -g3 -Wall -c -fmessage-length=0 -o main.o "..\\main.c" 
+gcc -ansi -std=c89 -o Assignment1_C.exe main.o 
+22:59:23 **** Incremental Build of configuration Debug for project Assignment1_C ****
+Info: Internal Builder is used for build
+gcc -ansi -std=c89 -O0 -g3 -Wall -c -fmessage-length=0 -o main.o "..\\main.c" 
+gcc -ansi -std=c89 -o Assignment1_C.exe main.o 
+Info: Nothing to build for Assignment1_C
+Info: Nothing to build for Assignment1_C
+Info: Nothing to build for Assignment1_C
+Info: Nothing to build for Assignment1_C
+Info: Nothing to build for Assignment1_C
+Info: Nothing to build for Assignment1_C
+Info: Nothing to build for Assignment1_C
+Info: Nothing to build for Assignment1_C
+Info: Nothing to build for Assignment1_C
+Info: Nothing to build for Assignment1_C
+23:10:30 **** Incremental Build of configuration Debug for project Assignment1_C ****
+Info: Internal Builder is used for build
+gcc -ansi -std=c89 -O0 -g3 -Wall -c -fmessage-length=0 -o main.o "..\\main.c" 
+gcc -ansi -std=c89 -o Assignment1_C.exe main.o 
+Info: Nothing to build for Assignment1_C
+Info: Nothing to build for Assignment1_C
+23:13:14 **** Incremental Build of configuration Debug for project Assignment1_C ****
+Info: Internal Builder is used for build
+gcc -ansi -std=c89 -O0 -g3 -Wall -c -fmessage-length=0 -o main.o "..\\main.c" 
+..\main.c: In function 'FindLargestNum':
+..\main.c:219:17: warning: 'num3' may be used uninitialized in this function [-Wmaybe-uninitialized]
+  if(num1 > num2 && num1 > num3)
+                 ^
+gcc -ansi -std=c89 -o Assignment1_C.exe main.o 
+Info: Nothing to build for Assignment1_C
+Info: Nothing to build for Assignment1_C
+23:14:11 **** Incremental Build of configuration Debug for project Assignment1_C ****
+Info: Internal Builder is used for build
+gcc -ansi -std=c89 -O0 -g3 -Wall -c -fmessage-length=0 -o main.o "..\\main.c" 
+gcc -ansi -std=c89 -o Assignment1_C.exe main.o 
+Info: Nothing to build for Assignment1_C
+23:15:31 **** Incremental Build of configuration Debug for project Assignment1_C ****
+Info: Internal Builder is used for build
+gcc -ansi -std=c89 -O0 -g3 -Wall -c -fmessage-length=0 -o main.o "..\\main.c" 
+gcc -ansi -std=c89 -o Assignment1_C.exe main.o 
+Info: Nothing to build for Assignment1_C
+Info: Nothing to build for Assignment1_C
+Info: Nothing to build for Assignment1_C
+Info: Nothing to build for Assignment1_C
+Info: Nothing to build for Assignment1_C
+Info: Nothing to build for Assignment1_C
+23:27:12 **** Incremental Build of configuration Debug for project Assignment1_C ****
+Info: Internal Builder is used for build
+gcc -ansi -std=c89 -O0 -g3 -Wall -c -fmessage-length=0 -o main.o "..\\main.c" 
+gcc -ansi -std=c89 -o Assignment1_C.exe main.o 
+Info: Nothing to build for Assignment1_C
+Info: Nothing to build for Assignment1_C
+Info: Nothing to build for Assignment1_C
+00:07:33 **** Incremental Build of configuration Debug for project Assignment1_C ****
+Info: Internal Builder is used for build
+gcc -ansi -std=c89 -O0 -g3 -Wall -c -fmessage-length=0 -o main.o "..\\main.c" 
+..\main.c: In function 'CheckAlphabetChar':
+..\main.c:262:8: warning: format '%f' expects argument of type 'float *', but argument 2 has type 'char *' [-Wformat=]
+  scanf("%f", &ch);
+        ^
+gcc -ansi -std=c89 -o Assignment1_C.exe main.o 
+Info: Nothing to build for Assignment1_C
+00:09:22 **** Incremental Build of configuration Debug for project Assignment1_C ****
+Info: Internal Builder is used for build
+gcc -ansi -std=c89 -O0 -g3 -Wall -c -fmessage-length=0 -o main.o "..\\main.c" 
+gcc -ansi -std=c89 -o Assignment1_C.exe main.o 
+Info: Nothing to build for Assignment1_C
+Info: Nothing to build for Assignment1_C
+00:11:10 **** Incremental Build of configuration Debug for project Assignment1_C ****
+Info: Internal Builder is used for build
+gcc -ansi -std=c89 -O0 -g3 -Wall -c -fmessage-length=0 -o main.o "..\\main.c" 
+gcc -ansi -std=c89 -o Assignment1_C.exe main.o 
+Info: Nothing to build for Assignment1_C
+Info: Nothing to build for Assignment1_C
+Info: Nothing to build for Assignment1_C
+Info: Nothing to build for Assignment1_C
+Info: Nothing to build for Assignment1_C
+Info: Nothing to build for Assignment1_C
+Info: Nothing to build for Assignment1_C
+00:19:48 **** Incremental Build of configuration Debug for project Assignment1_C ****
+Info: Internal Builder is used for build
+gcc -ansi -std=c89 -O0 -g3 -Wall -c -fmessage-length=0 -o main.o "..\\main.c" 
+gcc -ansi -std=c89 -o Assignment1_C.exe main.o 
+Info: Nothing to build for Assignment1_C
+00:44:26 **** Incremental Build of configuration Debug for project Assignment1_C ****
+Info: Internal Builder is used for build
+gcc -ansi -std=c89 -O0 -g3 -Wall -c -fmessage-length=0 -o main.o "..\\main.c" 
+gcc -ansi -std=c89 -o Assignment1_C.exe main.o 
+Info: Nothing to build for Assignment1_C
+Info: Nothing to build for Assignment1_C
+Info: Nothing to build for Assignment1_C
+Info: Nothing to build for Assignment1_C
+Info: Nothing to build for Assignment1_C
+00:47:54 **** Incremental Build of configuration Debug for project Assignment1_C ****
+Info: Internal Builder is used for build
+gcc -ansi -std=c89 -O0 -g3 -Wall -c -fmessage-length=0 -o main.o "..\\main.c" 
+gcc -ansi -std=c89 -o Assignment1_C.exe main.o 
+Info: Nothing to build for Assignment1_C
+00:59:26 **** Incremental Build of configuration Debug for project Assignment1_C ****
+Info: Internal Builder is used for build
+gcc -ansi -std=c89 -O0 -g3 -Wall -c -fmessage-length=0 -o main.o "..\\main.c" 
+gcc -ansi -std=c89 -o Assignment1_C.exe main.o 
+01:00:09 **** Incremental Build of configuration Debug for project Assignment1_C ****
+Info: Internal Builder is used for build
+gcc -ansi -std=c89 -O0 -g3 -Wall -c -fmessage-length=0 -o main.o "..\\main.c" 
+gcc -ansi -std=c89 -o Assignment1_C.exe main.o 
+Info: Nothing to build for Assignment1_C
+Info: Nothing to build for Assignment1_C
+Info: Nothing to build for Assignment1_C
+Info: Nothing to build for Assignment1_C
+Info: Nothing to build for Assignment1_C
