@@ -2,7 +2,7 @@
 
 // since we don't use dynamic allocation in this problem solution,
 // please put the ArrSizeEx1 to the maximum size of the prime numbers
-// you want to show otherwise array will elements will exceed the boundaries
+// you want to show otherwise array elements will exceed the boundaries
 // and the program may crash
 
 #define ArrSizeEx1  100
