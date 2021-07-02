@@ -121,7 +121,7 @@ int main(void)
         GPIOA_ODR_Ptr->allFields ^= (1<<PIN_13);
         #endif /* METHOD2 */
 
-		for(i = 0; i < 5000; i++);
+        for(i = 0; i < 5000; i++);
 
 	}
 }
